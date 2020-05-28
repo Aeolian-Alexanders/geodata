@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "title": "Didymateiche", "source": 511235, "target": "550812", "start_date": -218, "end_date": "-133" }, "geometry": { "type": "Point", "coordinates": [ 27.274404, 40.286031 ] } },
+{ "type": "Feature", "properties": { "title": "Lilaia", "source": 540915, "target": "550812", "start_date": -210, "end_date": "-133" }, "geometry": { "type": "Point", "coordinates": [ 22.5012665, 38.6319828 ] } },
+{ "type": "Feature", "properties": { "title": "Oreos", "source": 540988, "target": "550812", "start_date": -209, "end_date": "-133" }, "geometry": { "type": "Point", "coordinates": [ 23.099168, 38.949781 ] } },
+{ "type": "Feature", "properties": { "title": "Aegae", "source": 550404, "target": "550812", "start_date": -218, "end_date": "-188" }, "geometry": { "type": "Point", "coordinates": [ 27.19367, 38.83379 ] } },
+{ "type": "Feature", "properties": { "title": "Aspordenos M.", "source": 550461, "target": "550812", "start_date": -282, "end_date": "-133" }, "geometry": { "type": "Point", "coordinates": [ 27.31667, 38.9 ] } },
+{ "type": "Feature", "properties": { "title": "Attaleia", "source": 550472, "target": "550812", "start_date": -263, "end_date": "-133" }, "geometry": { "type": "Point", "coordinates": [ 27.75, 39.25 ] } },
+{ "type": "Feature", "properties": { "title": "Caicus (river)", "source": 550491, "target": "550812", "start_date": -263, "end_date": "-133" }, "geometry": { "type": "Point", "coordinates": [ 27.0057354, 38.9471678 ] } },
+{ "type": "Feature", "properties": { "title": "Cyme", "source": 550506, "target": "550812", "start_date": -218, "end_date": "-188" }, "geometry": { "type": "Point", "coordinates": [ 26.9392185, 38.760689 ] } },
+{ "type": "Feature", "properties": { "title": "Elaitikos Sinus", "source": 550525, "target": "550812", "start_date": -263, "end_date": "-133" }, "geometry": { "type": "Point", "coordinates": [ 26.9166685, 38.8666685 ] } },
+{ "type": "Feature", "properties": { "title": "Gargara", "source": 550544, "target": "550812", "start_date": -282, "end_date": "-133" }, "geometry": { "type": "Point", "coordinates": [ 26.540773, 39.534465 ] } },
+{ "type": "Feature", "properties": { "title": "Gergitha?", "source": 550548, "target": "550812", "start_date": -241, "end_date": "-133" }, "geometry": { "type": "Point", "coordinates": [ 27.694738, 39.184733 ] } },
+{ "type": "Feature", "properties": { "title": "Mysia (region)", "source": 550759, "target": "550812", "start_date": -218, "end_date": "-133" }, "geometry": { "type": "Point", "coordinates": [ 27.1750848165, 39.125041887400002 ] } },
+{ "type": "Feature", "properties": { "title": "Naulochon\/Smyrna\/Palaia Smyrna", "source": 550771, "target": "550812", "start_date": -218, "end_date": "-188" }, "geometry": { "type": "Point", "coordinates": [ 27.14781, 38.440912 ] } },
+{ "type": "Feature", "properties": { "title": "Pergamum", "source": 550812, "target": "550812", "start_date": -282, "end_date": "-133" }, "geometry": { "type": "Point", "coordinates": [ 27.1845303333, 39.131213333300003 ] } },
+{ "type": "Feature", "properties": { "title": "Phocaea", "source": 550823, "target": "550812", "start_date": -218, "end_date": "-133" }, "geometry": { "type": "Point", "coordinates": [ 26.754884, 38.6703265 ] } },
+{ "type": "Feature", "properties": { "title": "Temnos", "source": 550908, "target": "550812", "start_date": -218, "end_date": "-133" }, "geometry": { "type": "Point", "coordinates": [ 27.196998, 38.671912 ] } },
+{ "type": "Feature", "properties": { "title": "Teos", "source": 550913, "target": "550812", "start_date": -218, "end_date": "-133" }, "geometry": { "type": "Point", "coordinates": [ 26.785397, 38.185491 ] } },
+{ "type": "Feature", "properties": { "title": "Philetaireia", "source": 554310, "target": "550812", "start_date": -263, "end_date": "-133" }, "geometry": { "type": "Point", "coordinates": [ 26.84234605, 39.6922234 ] } },
+{ "type": "Feature", "properties": { "title": "Aegina (island)", "source": 579844, "target": "550812", "start_date": -210, "end_date": "-133" }, "geometry": { "type": "Point", "coordinates": [ 23.430141, 37.7409397 ] } },
+{ "type": "Feature", "properties": { "title": "Eretria", "source": 579925, "target": "550812", "start_date": -209, "end_date": "-133" }, "geometry": { "type": "Point", "coordinates": [ 23.7918065, 38.399266 ] } },
+{ "type": "Feature", "properties": { "title": "Andros (island)", "source": 589693, "target": "550812", "start_date": -200, "end_date": "-133" }, "geometry": { "type": "Point", "coordinates": [ 24.86, 37.85 ] } },
+{ "type": "Feature", "properties": { "title": "Colophon", "source": 599577, "target": "550812", "start_date": -218, "end_date": "-188" }, "geometry": { "type": "Point", "coordinates": [ 27.1483085, 38.108253 ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "title": "Brylleion\/Myrleia\/Apamea\/Col. Iulia Concordia", "source": 511194, "target": "511189", "start_date": -228, "end_date": "-182" }, "geometry": { "type": "Point", "coordinates": [ 28.88274275, 40.37557275 ] } },
+{ "type": "Feature", "properties": { "title": "Nicomedia", "source": 511337, "target": "511189", "start_date": -278, "end_date": "-255" }, "geometry": { "type": "Point", "coordinates": [ 29.919887, 40.7651905 ] } },
+{ "type": "Feature", "properties": { "title": "Prusa", "source": 511384, "target": "511189", "start_date": -228, "end_date": "-182" }, "geometry": { "type": "Point", "coordinates": [ 29.0638185, 40.1828985 ] } },
+{ "type": "Feature", "properties": { "title": "Zeila", "source": 619285, "target": "511189", "start_date": -254, "end_date": "-228" }, "geometry": { "type": "Point", "coordinates": [ 34.617916, 38.4594495 ] } },
+{ "type": "Feature", "properties": { "title": "Bithynion\/Claudiopolis\/Hadriana", "source": 844879, "target": "511189", "start_date": -228, "end_date": "-182" }, "geometry": { "type": "Point", "coordinates": [ 31.5858565, 40.7561925 ] } },
+{ "type": "Feature", "properties": { "title": "Prusias ad Hypium\/Kieros", "source": 845049, "target": "511189", "start_date": -228, "end_date": "-182" }, "geometry": { "type": "Point", "coordinates": [ 31.120408666700001, 40.914191333300003 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "title": "Konope\/Arsinoe", "source": 530959, "target": "104777481", "start_date": null, "end_date": null }, "geometry": { "type": "Point", "coordinates": [ 21.293116, 38.568807 ] } },
+{ "type": "Feature", "properties": { "title": "Lysimacheia", "source": 530986, "target": "104777481", "start_date": null, "end_date": null }, "geometry": { "type": "Point", "coordinates": [ 21.336882, 38.535856 ] } }
+]
+}

@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "title": "Antigoneia", "source": 491523, "target": "991253193", "start_date": -277, "end_date": "-239" }, "geometry": { "type": "Point", "coordinates": [ 23.053413, 40.379935 ] } },
+{ "type": "Feature", "properties": { "title": "Antigoneia?", "source": 491524, "target": "991253193", "start_date": -229, "end_date": "-221" }, "geometry": { "type": "Point", "coordinates": [ 22.124818, 41.4645893 ] } },
+{ "type": "Feature", "properties": { "title": "Helikore\/Nicaea", "source": 511268, "target": "991253193", "start_date": -306, "end_date": "-301" }, "geometry": { "type": "Point", "coordinates": [ 29.714681666699999, 40.429093666699998 ] } },
+{ "type": "Feature", "properties": { "title": "Demetrias", "source": 540730, "target": "991253193", "start_date": -294, "end_date": "-288" }, "geometry": { "type": "Point", "coordinates": [ 22.9223395, 39.343875 ] } },
+{ "type": "Feature", "properties": { "title": "Gomphoi", "source": 540792, "target": "991253193", "start_date": -221, "end_date": "-179" }, "geometry": { "type": "Point", "coordinates": [ 21.676806, 39.436045 ] } },
+{ "type": "Feature", "properties": { "title": "Olympias\/Gonnocondylus", "source": 540982, "target": "991253193", "start_date": -221, "end_date": "-179" }, "geometry": { "type": "Point", "coordinates": [ 22.496138, 39.855136 ] } },
+{ "type": "Feature", "properties": { "title": "Phila", "source": 541045, "target": "991253193", "start_date": -239, "end_date": "-229" }, "geometry": { "type": "Point", "coordinates": [ 22.6192, 39.919918 ] } },
+{ "type": "Feature", "properties": { "title": "Thebai Phthiotides", "source": 541137, "target": "991253193", "start_date": -221, "end_date": "-179" }, "geometry": { "type": "Point", "coordinates": [ 22.7745173719, 39.273661832499997 ] } },
+{ "type": "Feature", "properties": { "title": "Antigoneia\/(Col. Augusta) Alexandria Troas", "source": 550434, "target": "991253193", "start_date": -306, "end_date": "-301" }, "geometry": { "type": "Point", "coordinates": [ 26.1547495, 39.7564735 ] } },
+{ "type": "Feature", "properties": { "title": "Naulochon\/Smyrna\/Palaia Smyrna", "source": 550771, "target": "991253193", "start_date": -306, "end_date": "-301" }, "geometry": { "type": "Point", "coordinates": [ 27.14781, 38.440912 ] } },
+{ "type": "Feature", "properties": { "title": "Corinthus\/Korinthos", "source": 570182, "target": "991253193", "start_date": -226, "end_date": "-245" }, "geometry": { "type": "Point", "coordinates": [ 22.899979542200001, 37.898001619799999 ] } },
+{ "type": "Feature", "properties": { "title": "Sicyon\/Demetrias", "source": 570668, "target": "991253193", "start_date": -294, "end_date": "-288" }, "geometry": { "type": "Point", "coordinates": [ 22.7121933108, 37.983819217899999 ] } },
+{ "type": "Feature", "properties": { "title": "Colophon\/Colophon ad Mare\/Notion", "source": 599578, "target": "991253193", "start_date": -306, "end_date": "-301" }, "geometry": { "type": "Point", "coordinates": [ 27.200852, 37.9952785 ] } },
+{ "type": "Feature", "properties": { "title": "Europos\/Euromos\/Philippoi", "source": 599616, "target": "991253193", "start_date": -221, "end_date": "-179" }, "geometry": { "type": "Point", "coordinates": [ 27.673196, 37.378355 ] } },
+{ "type": "Feature", "properties": { "title": "Dokimeion", "source": 609366, "target": "991253193", "start_date": -306, "end_date": "-301" }, "geometry": { "type": "Point", "coordinates": [ 30.7524503667, 38.8627673 ] } },
+{ "type": "Feature", "properties": { "title": "Synnada", "source": 609538, "target": "991253193", "start_date": -306, "end_date": "-301" }, "geometry": { "type": "Point", "coordinates": [ 30.548095, 38.534617766700002 ] } },
+{ "type": "Feature", "properties": { "title": "Kretopolis", "source": 638946, "target": "991253193", "start_date": -306, "end_date": "-301" }, "geometry": { "type": "Point", "coordinates": [ 30.321707, 37.374984 ] } },
+{ "type": "Feature", "properties": { "title": "Nesiotic League (First)", "source": 286572421, "target": "991253193", "start_date": -245, "end_date": "-235" }, "geometry": { "type": "Point", "coordinates": [ 25.268194, 37.397274 ] } }
+]
+}

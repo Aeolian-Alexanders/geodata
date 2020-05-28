@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "title": "Arsameia pros Nymphaio", "source": 658391, "target": "658443", "start_date": -260, "end_date": "-228" }, "geometry": { "type": "Point", "coordinates": [ 38.6535925, 37.9460874 ] } },
+{ "type": "Feature", "properties": { "title": "Samosata", "source": 658587, "target": "658443", "start_date": -260, "end_date": "-228" }, "geometry": { "type": "Point", "coordinates": [ 38.530357, 37.525756 ] } },
+{ "type": "Feature", "properties": { "title": "Arsameia", "source": 874353, "target": "658443", "start_date": -260, "end_date": "-228" }, "geometry": { "type": "Point", "coordinates": [ 39.0348176, 38.01043345 ] } }
+]
+}

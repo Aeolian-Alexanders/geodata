@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "title": "Chios", "source": 550496, "target": "857185", "start_date": -120, "end_date": "-63" }, "geometry": { "type": "Point", "coordinates": [ 26.1342335, 38.37641 ] } },
+{ "type": "Feature", "properties": { "title": "Eupatoria", "source": 857121, "target": "857185", "start_date": -120, "end_date": "-63" }, "geometry": { "type": "Point", "coordinates": [ 36.319678, 41.324259 ] } },
+{ "type": "Feature", "properties": { "title": "Eupatoria\/Magnopolis", "source": 857122, "target": "857185", "start_date": -120, "end_date": "-63" }, "geometry": { "type": "Point", "coordinates": [ 36.5, 40.5 ] } },
+{ "type": "Feature", "properties": { "title": "Pontus", "source": 857287, "target": "857185", "start_date": -190, "end_date": "-155" }, "geometry": { "type": "Point", "coordinates": [ 34.7425505, 43.0786852 ] } }
+]
+}
